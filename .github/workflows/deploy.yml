@@ -1,0 +1,5 @@
+name: Github Actions 실행해보기
+
+on: 
+  push:
+    - main
